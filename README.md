@@ -74,7 +74,7 @@
 <br clear="both">
 
 <div align="left">
-<a href="https://www.linkedin.com/in/iamrishigandhi/" onclick="window.open(this.href, '_blank'); return false;">Link Text</a>
+<a href="https://www.linkedin.com/in/iamrishigandhi/" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:rishigandhi2002@gmail.com" target="_blank">
