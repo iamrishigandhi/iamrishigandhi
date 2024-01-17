@@ -1,5 +1,9 @@
 <h1 align="left">Hello There.</h1>
 
+<div align="center">
+  <p>You're at number <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" /> to view my profile</p>
+</div>
+
 ###
 
 <div align="left">
