@@ -94,8 +94,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/output/snake.svg" alt="Snake Animation" />
-
 ###
 
 <div align="center">
