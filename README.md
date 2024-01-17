@@ -3,7 +3,7 @@
 <div>
   <strong>You're number</strong> 
   <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" />
-  <strong>to view my profile. Thanks!</strong>
+  <strong>to view my profile.</strong>
 </div>
 
 ###
