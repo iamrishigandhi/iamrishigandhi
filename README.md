@@ -1,17 +1,5 @@
 <h1 align="left">Hello There.</h1>
 
-<style>
-  div {
-    text-align: center;
-    font-size: 18px; 
-  }
-
-  strong {
-    font-size: 1.2em; 
-    font-weight: bold;
-  }
-</style>
-
 <div>
   <strong>You're at number</strong> 
   <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" />
