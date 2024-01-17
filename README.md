@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! I'm Rishi</h2>
 
+![Header](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/header.png)
+
+
 ###
 
 <div align="center">
