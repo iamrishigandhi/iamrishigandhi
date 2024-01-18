@@ -11,7 +11,7 @@
 <div align="left">
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrishigandhi&theme=dark" alt="iamrishigandhi" /></p>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrishigandhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrishigandhi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
