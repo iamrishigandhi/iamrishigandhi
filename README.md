@@ -8,7 +8,7 @@
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamrishigandhi&theme=vision-friendly-dark&hide_border=true&mode=daily&card_width=400" alt="GitHub Streak" />
-  <img align = "right" height = "350" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhtbDdkdWNnd2JmNnA2bXB0aXFocjh3enZrMjIzbXUxYWJrdDhiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3bb5jcIADH9ewHnpl9/giphy.gif" />
+  <img align = "right" height = "350" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdhcGYwZDZsNm5ocGY4MWh4NXhsZngxenBsZm5jbHg5ZG9qaWFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wWf7GZPPlIvA2DyR6o/giphy.gif" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrishigandhi&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=vision-friendly-dark&hide_border=true" height="150" alt="languages percent graph" />
 </div>
