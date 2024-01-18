@@ -1,7 +1,7 @@
-<h1 align="left">Hello There!</h1>
+<h1 align="left"><b>Hello There!</b></h1>
 
 <div>
-  <strong>You are visitor number</strong> 
+  <strong>You are visitor number</strong>
   <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" />
   <strong>on my profile.</strong>
 </div>
