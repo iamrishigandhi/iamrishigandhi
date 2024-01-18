@@ -1,11 +1,11 @@
-<h1 align="left"><b>Hello There! </b></h1>
+<h1 align="left">Hello There!</h1>
 
 <div>
   <strong>You are visitor number</strong>
   <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" />
   <strong>on my profile.</strong>
 </div>
-
+<br>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamrishigandhi&theme=vision-friendly-dark&hide_border=true&mode=daily&card_width=400" alt="GitHub Streak" />
   <img align = "right" height = "350" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdhcGYwZDZsNm5ocGY4MWh4NXhsZngxenBsZm5jbHg5ZG9qaWFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wWf7GZPPlIvA2DyR6o/giphy.gif" />
