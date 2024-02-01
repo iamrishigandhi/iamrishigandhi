@@ -1,33 +1,21 @@
-<h1 align="left">Hello There! 👋🏼 </h1>
+# Hello There! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThldjk3NmRqYXB5bGxmdzE4ZzI5d2c2bXhlZ2l0cTl4NGxzdWh5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px">
 
-<div>
-  <strong>You are visitor number</strong>
-  <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" />
-  <strong>on my profile. 😊 </strong>
-</div>
-<br>
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamrishigandhi&theme=vision-friendly-dark&hide_border=true&mode=daily&card_width=468" alt="GitHub Streak" />
-  <img align = "right" height = "350" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdhcGYwZDZsNm5ocGY4MWh4NXhsZngxenBsZm5jbHg5ZG9qaWFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wWf7GZPPlIvA2DyR6o/giphy.gif" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrishigandhi&locale=en&hide_title=false&layout=compact&card_width=436&langs_count=6&theme=vision-friendly-dark&hide_border=true" height="150" alt="languages percent graph" />
-</div>
+<img align = "right" height = "350" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWh5OHdhaGVvMXBqNm9nYTczdWh1b2cxcmMxOXZ3NnJpczdnOGx0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/geHG6zLJWNcNW/giphy.gif" />
 
-##
+### You are visitor number <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" width="250" /> on my profile. 😊
 
-<div align="left">
-  <h3>My socials:</h3>
-  <a href="https://www.linkedin.com/in/iamrishigandhi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:rishigandhi2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/i8rishigandhi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/iamrishigandhi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D62976&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=185F34&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-</div>
+### More of my socials:&nbsp; <a href="https://www.linkedin.com/in/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> &nbsp; <a href="https://twitter.com/i8rishigandhi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a> &nbsp; <a href="https://www.instagram.com/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> &nbsp; <a href="https://www.facebook.com/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a> &nbsp;
+
+## Overview of my skills:
+<h3 align="left">Programming Languages:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Front-End Develpoment:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Back-End Develpoment:</h3>
+<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrishigandhi&locale=en&hide_title=false&layout=compact&card_width=436&langs_count=6&theme=vision-friendly-dark&hide_border=true" height="150" alt="languages percent graph" />
+<img align ="right" src="https://github-readme-streak-stats.herokuapp.com?user=iamrishigandhi&theme=vision-friendly-dark&hide_border=true&mode=daily&card_width=468" alt="GitHub Streak" />
