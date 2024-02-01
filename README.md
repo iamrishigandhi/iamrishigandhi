@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
-<h3 align="left">Front-End Develpoment:</h3>
+<h3 align="left">Front-End Development:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-<h3 align="left">Mobile App Develpoment:</h3>
+<h3 align="left">Mobile App Development:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
