@@ -70,14 +70,14 @@
 </div>
 
 <h3 align="left">Frameworks:</h3>
-<div align="left">
+<div align="left" style="display: flex;">
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
 </div>
 
 <h3 align="left">Testing:</h3>
-<div align="left">
+<div align="left" style="display: flex;">
   <img src="https://cdn.simpleicons.org/mocha/8D6748" height="30" alt="mocha logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo"  />
