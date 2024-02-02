@@ -22,11 +22,9 @@
 | IDE | <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo"  /> <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /> <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  /> <img src="https://cdn.simpleicons.org/pycharm/000000" height="30" alt="pycharm logo"  /> <img src="https://cdn.simpleicons.org/rstudio/75AADB" height="30" alt="rstudio logo"  /> <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="30" alt="visualstudio logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /> |
 | Applications | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  /> <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  /> <img src="https://cdn.simpleicons.org/firefox/FF7139" height="30" alt="firefox logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  /> |
 | Visual and Graphics | <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  /> <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  /> <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />|
-| -------- | -------- |
-| -------- | -------- |
-
-
-
+| Game Engines | <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  /> |
+| Automation | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="40" alt="ifttt logo"  /> |
+| Operating Systems | <img src="https://cdn.simpleicons.org/windows/0078D6" height="40" alt="windows8 logo"  /> <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> |
 
 ## 📊 My GitHub Stats:
 <img align ="left" src="https://github-readme-streak-stats.herokuapp.com?user=iamrishigandhi&theme=vision-friendly-dark&hide_border=true&mode=daily&card_width=468" alt="GitHub Streak" />
