@@ -33,6 +33,4 @@
 
 <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrishigandhi&locale=en&hide_title=false&layout=compact&card_width=436&langs_count=6&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="languages percent graph" /> <br/>
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/output/snake.svg" alt="Snake animation" />
