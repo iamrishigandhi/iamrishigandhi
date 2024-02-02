@@ -6,6 +6,8 @@
 
 ### Links to my socials:&nbsp; <a href="https://www.linkedin.com/in/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> &nbsp; <a href="https://twitter.com/i8rishigandhi" target="_blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X" alt="Twitter" height="35" width="55" /></a> &nbsp; <a href="https://www.instagram.com/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" /></a> &nbsp; <a href="https://www.facebook.com/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="40" /></a> &nbsp;
 
+## Here's my resume: 
+
 ## 💼 Overview of my skills:
 
 | Programming Languages | <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  /> <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />|
