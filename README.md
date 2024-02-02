@@ -29,9 +29,10 @@
 | Operating Systems | <img src="https://cdn.simpleicons.org/windows/0078D6" height="40" alt="windows8 logo"  /> <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> |
 
 ## 📊 My GitHub Stats:
-<img align ="left" src="https://github-readme-streak-stats.herokuapp.com?user=iamrishigandhi&theme=vision-friendly-dark&hide_border=true&mode=daily&card_width=468" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iamrishigandhi&theme=vision-friendly-dark&hide_border=true&mode=daily&card_width=468" alt="GitHub Streak" />
 
-<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrishigandhi&locale=en&hide_title=false&layout=compact&card_width=436&langs_count=6&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="languages percent graph" /> <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrishigandhi&locale=en&hide_title=false&layout=compact&card_width=436&langs_count=6&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="languages percent graph" />
 
 ## 🚀 My GitHub Contributions:
+
 <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/output/snake.svg" alt="Snake animation" />
