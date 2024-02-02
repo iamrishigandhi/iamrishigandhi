@@ -5,7 +5,7 @@
 ### You are visitor number <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" width="250" /> on my profile!
 
 ### Links to my socials:&nbsp; <a href="https://www.linkedin.com/in/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="40" /></a> &nbsp; <a href="https://twitter.com/i8rishigandhi" target="_blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X" alt="Twitter" height="30" width="50" /></a> &nbsp; <a href="https://www.instagram.com/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a> &nbsp; <a href="https://www.facebook.com/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a> &nbsp;
-### Here's my ![resume]().
+### Here's my ![resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/Rishi%20Gandhi%20Resume.pdf).
 
 ## 💼 Overview of my skills:
 
