@@ -1,6 +1,6 @@
 # Hello There! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThldjk3NmRqYXB5bGxmdzE4ZzI5d2c2bXhlZ2l0cTl4NGxzdWh5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px">
 
-<img align = "right" height = "300" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNiYndtMDYzaHl5M3hxcDZnN20yNXd0OWI5amM2MHdveXpsMGo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Vozsrukh9ZIs/giphy.gif" />
+<img align = "right" height = "290" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNiYndtMDYzaHl5M3hxcDZnN20yNXd0OWI5amM2MHdveXpsMGo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Vozsrukh9ZIs/giphy.gif" />
 
 ### You are visitor number <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" width="250" /> on my profile. 😊
 
