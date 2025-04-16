@@ -6,7 +6,7 @@
 
 ### Links to my socials:&nbsp; <a href="https://www.linkedin.com/in/iamrishigandhi/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="40" /></a> &nbsp; <a href="https://twitter.com/i8rishigandhi" target="_blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/x.svg" alt="Twitter" height="40" width="50" /></a> &nbsp; <a href="https://www.instagram.com/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> &nbsp; <a href="https://www.facebook.com/iamrishigandhi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a> &nbsp;
 
-### Here's my [resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/My%20Resume.pdf).
+### Here's my [resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/Rishi_Gandhi_Resume.pdf).
 
 ### Here's my [Bloomberg Market Concepts Certificate](https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7).
 
