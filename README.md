@@ -43,4 +43,6 @@
 
 ## 🚀 My GitHub Contributions:
 
-<img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/output/snake.svg" alt="Snake Animation" />
+
+<img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/output/pacman-contribution-graph.svg" alt ="Pacman Animation">
