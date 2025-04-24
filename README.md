@@ -2,7 +2,7 @@
 
 <img align = "right" height = "300" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNiYndtMDYzaHl5M3hxcDZnN20yNXd0OWI5amM2MHdveXpsMGo2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Vozsrukh9ZIs/giphy.gif" />
 
-### You are visitor number <img src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" width="250" /> on my profile!
+### You are visitor number <img align = "center" src="https://profile-counter.glitch.me/iamrishigandhi/count.svg?" alt="Profile Counter" width="250" /> on my profile!
 
 ### Links to my socials:&nbsp; <a href="https://www.linkedin.com/in/iamrishigandhi/"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linkedin.svg" alt="LinkedIn" height="40" /></a> &nbsp; <a href="https://twitter.com/i8rishigandhi" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/x-light.svg" alt="Twitter" height="40"/></a> &nbsp; <a href="https://www.instagram.com/iamrishigandhi/" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg" alt="Instagram" height="40" /></a> &nbsp; <a href="https://www.facebook.com/iamrishigandhi/" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg" alt="Facebook" height="40"/></a> &nbsp;
 
