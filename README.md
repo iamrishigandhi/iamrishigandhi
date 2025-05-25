@@ -6,13 +6,13 @@
 
 ### Links to my socials:&nbsp; <a href="https://www.linkedin.com/in/iamrishigandhi/"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linkedin.svg" alt="LinkedIn" height="35" /></a> &nbsp; <a href="https://twitter.com/i8rishigandhi" ><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/x-dark.svg" alt="Twitter" height="35"/></a> &nbsp; <a href="https://www.instagram.com/iamrishigandhi/" ><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg" alt="Instagram" height="35" /></a> &nbsp; <a href="https://www.facebook.com/iamrishigandhi/" ><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg" alt="Facebook" height="35"/></a> &nbsp;
 
-| About&nbsp;Me |
-|--------------|
-| <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/test/assets/redirect1.svg" width="20" style="vertical-align:middle; margin-right:6px;"> 💬 [Book a chat with me!](https://cal.com/iamrishigandhi) |
-| <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/test/assets/redirect1.svg" width="20" style="vertical-align:middle; margin-right:6px;"> 📄 [View my RESUME](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf) |
-| <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/test/assets/redirect1.svg" width="20" style="vertical-align:middle; margin-right:6px;"> 🎓 [AWS Certified Cloud Practitioner – Foundational](https://www.credly.com/badges/be0f5378-70bc-48c2-9e98-9d7c350b00ec/public_url) |
-| <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/test/assets/redirect1.svg" width="20" style="vertical-align:middle; margin-right:6px;"> 🎓 [Bloomberg Market Concepts Certificate](https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7) |
-| <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/test/assets/redirect1.svg" width="20" style="vertical-align:middle; margin-right:6px;"> 🎓 [Fundamentals of Digital Marketing Certificate](https://skillshop.exceedlms.com/student/award/bnkWcznYPTen9NfVYCDMXctm) |
+| About Me                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------- |
+| 💬 [Book a chat with me!](https://cal.com/iamrishigandhi)                                                                           |
+| 📄 [View my RESUME](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf)                      |
+| 🎓 [AWS Certified Cloud Practitioner - Foundational](https://www.credly.com/badges/be0f5378-70bc-48c2-9e98-9d7c350b00ec/public_url) |
+| 🎓 [Bloomberg Market Concepts Certificate](https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7)          |
+| 🎓 [Fundamentals of Digital Marketing Certificate](https://skillshop.exceedlms.com/student/award/bnkWcznYPTen9NfVYCDMXctm)          |
 
 ## 💼 Overview of my skills:
 
