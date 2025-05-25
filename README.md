@@ -33,3 +33,27 @@
 <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/output/snake.svg" alt="Snake animation" />
 
 <img src="https://raw.githubusercontent.com/iamrishigandhi/iamrishigandhi/output/pacman-contribution-graph-dark.svg" alt ="Pacman Animation">
+
+
+<table>
+  <tr>
+    <td>
+
+<!-- Table 1 -->
+<table>
+  <tr><th>Col A</th><th>Col B</th></tr>
+  <tr><td>1</td><td>2</td></tr>
+</table>
+
+    </td>
+    <td style="padding-left: 20px;">
+
+<!-- Table 2 -->
+<table>
+  <tr><th>Col X</th><th>Col Y</th></tr>
+  <tr><td>3</td><td>4</td></tr>
+</table>
+
+    </td>
+  </tr>
+</table>
