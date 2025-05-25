@@ -6,13 +6,13 @@
 
 ### Links to my socials:&nbsp; <a href="https://www.linkedin.com/in/iamrishigandhi/"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linkedin.svg" alt="LinkedIn" height="35" /></a> &nbsp; <a href="https://twitter.com/i8rishigandhi" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/x-dark.svg" alt="Twitter" height="35"/></a> &nbsp; <a href="https://www.instagram.com/iamrishigandhi/" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg" alt="Instagram" height="35" /></a> &nbsp; <a href="https://www.facebook.com/iamrishigandhi/" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg" alt="Facebook" height="35"/></a> &nbsp;
 
-### 🌟 Get to know me better, book a quick [chat](https://cal.com/iamrishigandhi) with me! 🌟
+### Get to know me better, book a quick [chat](https://cal.com/iamrishigandhi) with me!
 
-### Here's my [resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/Rishi_Gandhi_Resume.pdf).
+### Here's my [resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf).
 
-### Here's my [Bloomberg Market Concepts Certificate](https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7).
+#### Here's my [Bloomberg Market Concepts Certificate](https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7).
 
-### Here's my [Fundamentals of Digital Marketing Certificate](https://skillshop.exceedlms.com/student/award/bnkWcznYPTen9NfVYCDMXctm).
+#### Here's my [Fundamentals of Digital Marketing Certificate](https://skillshop.exceedlms.com/student/award/bnkWcznYPTen9NfVYCDMXctm).
 
 ## 💼 Overview of my skills:
 
