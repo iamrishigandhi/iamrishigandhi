@@ -6,13 +6,26 @@
 
 ### Links to my socials:&nbsp; <a href="https://www.linkedin.com/in/iamrishigandhi/"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linkedin.svg" alt="LinkedIn" height="35" /></a> &nbsp; <a href="https://twitter.com/i8rishigandhi" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/x-dark.svg" alt="Twitter" height="35"/></a> &nbsp; <a href="https://www.instagram.com/iamrishigandhi/" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg" alt="Instagram" height="35" /></a> &nbsp; <a href="https://www.facebook.com/iamrishigandhi/" target="_blank"><img align= "center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/facebook.svg" alt="Facebook" height="35"/></a> &nbsp;
 
-| About Me |
-|----------|
-| 💬 [Book a chat with me!](https://cal.com/iamrishigandhi) |
-| 📄 [View my RESUME](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf) |
-| 🎓 [AWS Certified Cloud Practitioner - Foundational](https://www.credly.com/badges/be0f5378-70bc-48c2-9e98-9d7c350b00ec/public_url) | 
-| 🎓 [Bloomberg Market Concepts Certificate](https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7) | 
-| 🎓 [Fundamentals of Digital Marketing Certificate](https://skillshop.exceedlms.com/student/award/bnkWcznYPTen9NfVYCDMXctm) |
+<table>
+  <tr>
+    <th>About Me</th>
+  </tr>
+  <tr>
+    <td>💬 <a href="https://cal.com/iamrishigandhi" target="_blank">Book a chat with me!</a></td>
+  </tr>
+  <tr>
+    <td>📄 <a href="https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf" target="_blank">View my RESUME</a></td>
+  </tr>
+  <tr>
+    <td>🎓 <a href="https://www.credly.com/badges/be0f5378-70bc-48c2-9e98-9d7c350b00ec/public_url" target="_blank">AWS Certified Cloud Practitioner - Foundational</a></td>
+  </tr>
+  <tr>
+    <td>🎓 <a href="https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7" target="_blank">Bloomberg Market Concepts Certificate</a></td>
+  </tr>
+  <tr>
+    <td>🎓 <a href="https://skillshop.exceedlms.com/student/award/bnkWcznYPTen9NfVYCDMXctm" target="_blank">Fundamentals of Digital Marketing Certificate</a></td>
+  </tr>
+</table>
 
 
 ## 💼 Overview of my skills:
