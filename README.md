@@ -9,7 +9,7 @@
 | About Me |
 |----------|
 | 💬 [Book a chat with me!](https://cal.com/iamrishigandhi) |
-| 📄 [View my resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf) |
+| 📄 [View my RESUME](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf) |
 | 🎓 [AWS Certified Cloud Practitioner - Foundational](https://www.credly.com/badges/be0f5378-70bc-48c2-9e98-9d7c350b00ec/public_url) | 
 | 🎓 [Bloomberg Market Concepts Certificate](https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7) | 
 | 🎓 [Fundamentals of Digital Marketing Certificate](https://skillshop.exceedlms.com/student/award/bnkWcznYPTen9NfVYCDMXctm) |
