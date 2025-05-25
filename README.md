@@ -8,7 +8,8 @@
 
 | About Me | Links |
 |----------|-------|
-| 💬 Book a quick [chat](https://cal.com/iamrishigandhi) with me! | 📄 View my [resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf) |
+| 💬 Book a quick [chat](https://cal.com/iamrishigandhi) with me! |
+| 📄 View my [resume](https://github.com/iamrishigandhi/iamrishigandhi/blob/main/assets/Rishi_Gandhi_Resume.pdf) |
 | 🎓 [Bloomberg Market Concepts Certificate](https://portal.bloombergforeducation.com/certificates/XXUQ4wagDCUqi6AcPZT4djj7) | 📘 [Fundamentals of Digital Marketing Certificate](https://skillshop.exceedlms.com/student/award/bnkWcznYPTen9NfVYCDMXctm) |
 
 
